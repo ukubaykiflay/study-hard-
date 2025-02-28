@@ -1,2 +1,2 @@
 # study-hard-
-this is my first one page repository 
+this is my first one page repository  
